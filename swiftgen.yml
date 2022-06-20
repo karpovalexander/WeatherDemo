@@ -1,0 +1,29 @@
+input_dir: WeatherDemo
+output_dir: WeatherDemo/Generated
+
+xcassets:
+  inputs:
+    - Resources/Images/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: Assets.generated.swift
+  
+fonts:
+  inputs: Resources/Fonts
+  outputs:
+    templateName: swift5
+    output: Fonts.generated.swift
+  
+strings:
+  inputs: Resources/Localization/en.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Strings.generated.swift
+
+ib:
+  inputs:
+    - Classes/Modules/Cities
+    - Classes/Modules/Weather
+  outputs:
+    - templateName: scenes-swift5
+      output: Storyboard Scenes.generated.swift

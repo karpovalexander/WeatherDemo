@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.6.1)
+  - HPParallaxHeader (1.1.8)
+  - Kingfisher (7.2.3)
+  - SnapKit (5.6.0)
+  - SwiftGen (6.5.1)
+  - TableKit (2.11.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HPParallaxHeader
+  - Kingfisher
+  - SnapKit
+  - SwiftGen
+  - TableKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HPParallaxHeader
+    - Kingfisher
+    - SnapKit
+    - SwiftGen
+    - TableKit
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  HPParallaxHeader: 11b0ff245ab2615421bf7f2a77607579876c57da
+  Kingfisher: 8c2cbe0c11ea4d481542895112682a99e058468e
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftGen: a6d22010845f08fe18fbdf3a07a8e380fd22e0ea
+  TableKit: 8a1a267d841a2da638ea09bdb0db33aedb459fa8
+
+PODFILE CHECKSUM: 1b537bc4f8ba42181f7d3e23859c8207097834aa
+
+COCOAPODS: 1.11.2
